@@ -6,5 +6,5 @@ The live conference room was built using Twilio SDK (main features: one-on-one, 
 ##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Twilio SDK, StreamChat API, Push Notifications, AWS SDK, REST API (GraphQL on an early MVP).
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
-<a href="" target="_blank"><img src="images/recipe1.png" width="900" title="Strydal"></a>
+<a href="" target="_blank"><img src="images/recipe1.png" width="50" title="RecipeSaver"></a>
 </p>
